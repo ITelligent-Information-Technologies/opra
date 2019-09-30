@@ -1,0 +1,44 @@
+Summary of lower and upper bounds (or optimum) for open shop problem instances
+tai4_4 193
+tai4_4 236
+tai4_4 271
+tai4_4 250
+tai4_4 295
+tai4_4 189
+tai4_4 201
+tai4_4 217
+tai4_4 261
+tai4_4 217
+
+tai5_5 300
+tai5_5 262
+tai5_5 323
+tai5_5 310
+tai5_5 326
+tai5_5 312
+tai5_5 303
+tai5_5 300
+tai5_5 353
+tai5_5 326
+
+tai7_7 435
+tai7_7 443
+tai7_7 468
+tai7_7 463
+tai7_7 416
+tai7_7 451
+tai7_7 422
+tai7_7 424
+tai7_7 458
+tai7_7 398
+
+tai10_10 637 652
+tai10_10 588
+tai10_10 598 611
+tai10_10 577
+tai10_10 640 657
+tai10_10 538
+tai10_10 616
+tai10_10 595
+tai10_10 595
+tai10_10 596 604
