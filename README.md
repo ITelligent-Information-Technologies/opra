@@ -13,4 +13,4 @@ Gran parte de las decisiones a afrontar por la Industria 4.0 y las Smart Cities 
 El objetivo de este proyecto es desarrollar nuevos Algoritmos de Optimización basados en Deep Reinforcement Learning (DRL), para dos problemas específicos (Vehicle Routing Problem y Scheduling) dónde todavía no hay experiencias relevantes (TRL 3), testear estos algoritmos con datos relevantes e incorporarlos en un prototipo que permita a un usuario interactuar de forma controlada con los resultados (TRL 6) y en el futuro, una vez finalizado el proyecto, el objetivo es comercializarlos en modo SaaS a nivel global. 
 
 ## Web del proyecto
-(OPRA)[http://opra.itelligent.es/]
+[OPRA](http://opra.itelligent.es/)
